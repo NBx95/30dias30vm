@@ -1,1 +1,1 @@
-# Repositorio criado com o intuito de documentar os laboratórios efetuados. De maneira que venha a ser útil a todos que aqui puderem ter acesso, lembrando que todo o conteúdo aqui encontrado é para fins de estudos e pesquisas relacionadas a vulnerabilidades.
+Repositorio criado com o intuito de documentar os laboratórios efetuados. De maneira que venha a ser útil a todos que aqui puderem ter acesso, lembrando que todo o conteúdo aqui encontrado é para fins de estudos e pesquisas relacionadas a vulnerabilidades.
