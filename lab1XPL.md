@@ -113,4 +113,4 @@ rhosts ⇒ ip do alvo
 20º msf5 auxiliary (admin/http/wp-google-maps-sqli) > run 
 ```
 
-Após o msf5 abrir a sessão com o alvo, digite 'whoami' caso seja 'root' digite no terminal -> shell <- acesso realizado. 
+Após o msf5 abrir a sessão com o alvo, digite 'whoami' caso seja 'root' digite no terminal ```-> shell <-``` acesso realizado. 
