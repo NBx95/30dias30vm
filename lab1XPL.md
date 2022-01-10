@@ -1,7 +1,7 @@
 # First Pass Recon
-'''
+"'
 1º sudo nmap -sS -T4 'Seu IP'
-'''
+"'
 "Utilizar o IP do Kali para descobrir os outros dispostivos na rede, e assim saber os serviços que estão rodando."
 
 '''
