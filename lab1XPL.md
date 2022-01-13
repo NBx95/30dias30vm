@@ -32,7 +32,7 @@
 "Busca na ferramenta exploits para os plugins levantados no passo 2, localize o modo auxiliar para SQLinjection no wp-google-maps."
 
 ```
-6º msf5 > use 0  
+6º msf5 > use 0   
 ```
 "Efetua no Metasploit o uso do auxiliar para SQLinjection."
 
